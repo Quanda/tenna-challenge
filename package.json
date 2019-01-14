@@ -1,0 +1,12 @@
+{
+  "name": "tenna",
+  "version": "1.0.0",
+  "description": "coding challeneges for tenna",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "math": "node optimizedMath.js",
+    "thread": "node --experimental-worker threadSynchronization.js"
+  },
+  "author": "Eric Furspan",
+  "license": "ISC"
+}
